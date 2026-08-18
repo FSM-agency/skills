@@ -1,0 +1,17 @@
+{
+  "name": "fsm-skills",
+  "owner": {
+    "name": "FSM Agency"
+  },
+  "metadata": {
+    "description": "UI and animation skills from emilkowalski/skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "emil-ui-skills",
+      "source": "emil-ui-skills",
+      "description": "UI and animation skills from emilkowalski/skills"
+    }
+  ]
+}
