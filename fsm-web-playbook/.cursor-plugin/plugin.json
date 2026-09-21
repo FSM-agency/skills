@@ -1,0 +1,16 @@
+{
+  "name": "fsm-web-playbook",
+  "description": "FSM repeatable WordPress development workflows, including JSON-LD schema",
+  "version": "1.0.0",
+  "author": {
+    "name": "FSM Agency"
+  },
+  "keywords": [
+    "wordpress",
+    "schema",
+    "json-ld",
+    "seo",
+    "yoast",
+    "aioseo"
+  ]
+}
