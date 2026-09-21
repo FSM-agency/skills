@@ -4,8 +4,8 @@
     "name": "FSM Agency"
   },
   "metadata": {
-    "description": "FSM agency skills: UI/animation (emilkowalski) and WordPress website QA",
-    "version": "1.0.0"
+    "description": "FSM agency skills: UI/animation, WordPress QA, and repeatable web development workflows",
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -17,6 +17,11 @@
       "name": "fsm-website-qa-skills",
       "source": "fsm-website-qa-skills",
       "description": "FSM WordPress site QA: browser/frontend audit and child-theme SSH hygiene"
+    },
+    {
+      "name": "fsm-web-playbook",
+      "source": "fsm-web-playbook",
+      "description": "FSM repeatable WordPress development workflows, including JSON-LD schema"
     }
   ]
 }
