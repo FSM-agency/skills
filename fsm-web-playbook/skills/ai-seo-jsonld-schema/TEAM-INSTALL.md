@@ -1,4 +1,4 @@
-# fsm-jsonld-schema — Team install
+# ai-seo-jsonld-schema — Team install
 
 Gives teammates the same page-specific JSON-LD workflow for WordPress sites using
 Yoast SEO or All in One SEO.
@@ -23,7 +23,7 @@ first, and returns a Schema Markup Validator link.
 ## Option A — Cursor personal skill
 
 ```bash
-cp -R fsm-jsonld-schema ~/.cursor/skills/fsm-jsonld-schema
+cp -R ai-seo-jsonld-schema ~/.cursor/skills/ai-seo-jsonld-schema
 ```
 
 Restart Cursor or start a new Agent chat.
@@ -32,7 +32,7 @@ Restart Cursor or start a new Agent chat.
 
 ```bash
 mkdir -p .cursor/skills
-cp -R fsm-jsonld-schema .cursor/skills/fsm-jsonld-schema
+cp -R ai-seo-jsonld-schema .cursor/skills/ai-seo-jsonld-schema
 ```
 
 ## Option C — Marketplace / team plugin
@@ -40,13 +40,13 @@ cp -R fsm-jsonld-schema .cursor/skills/fsm-jsonld-schema
 Install `fsm-web-playbook` from the FSM skills marketplace. Keep `SKILL.md` at:
 
 ```text
-fsm-web-playbook/skills/fsm-jsonld-schema/SKILL.md
+fsm-web-playbook/skills/ai-seo-jsonld-schema/SKILL.md
 ```
 
 ## Package
 
 ```text
-fsm-jsonld-schema/
+ai-seo-jsonld-schema/
 ├── SKILL.md
 ├── WORKFLOW.md
 ├── CODE-PATTERNS.md

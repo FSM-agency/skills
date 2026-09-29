@@ -1,5 +1,5 @@
 ---
-name: fsm-jsonld-schema
+name: ai-seo-jsonld-schema
 description: >-
   Audits and improves JSON-LD for one target page by inspecting its live schema,
   filling supported gaps from content on the provided site, and extending the
@@ -9,7 +9,7 @@ description: >-
   target page URL and general direction or starting point.
 ---
 
-# FSM JSON-LD Schema
+# AI SEO JSON-LD Schema
 
 Improve the structured data for **one target page** without inventing claims or
 creating a competing graph. The requested direction is the starting priority;
