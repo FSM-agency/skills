@@ -1,0 +1,7 @@
+{
+  "name": "fsm-website-qa-skills",
+  "version": "1.0.0",
+  "description": "FSM WordPress site QA skills: browser/frontend audit and child-theme SSH hygiene",
+  "author": { "name": "FSM Agency" },
+  "keywords": ["wordpress", "divi", "qa", "accessibility", "lighthouse"]
+}

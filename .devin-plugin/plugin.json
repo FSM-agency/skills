@@ -1,0 +1,26 @@
+{
+  "name": "fsm-skills",
+  "version": "1.1.0",
+  "description": "FSM agency skills: UI/animation, WordPress QA, and repeatable web development workflows",
+  "author": { "name": "FSM Agency" },
+  "repository": "https://github.com/FSM-agency/skills",
+  "license": "MIT",
+  "skills": [],
+  "requiredPlugins": [
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/FSM-agency/skills.git",
+      "path": "emil-ui-skills"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/FSM-agency/skills.git",
+      "path": "fsm-website-qa-skills"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/FSM-agency/skills.git",
+      "path": "fsm-web-playbook"
+    }
+  ]
+}

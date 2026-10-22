@@ -26,6 +26,24 @@ You can stay up to date with my skills here:
 npx skills@latest add emilkowalski/skills
 ```
 
+### Devin
+
+This repo is a Devin plugin marketplace. Installing the repo root installs the `fsm-skills` meta-plugin, which pulls in all three plugins:
+
+```bash
+devin plugins install FSM-agency/skills
+```
+
+Or install a single plugin from its subfolder:
+
+```bash
+devin plugins install FSM-agency/skills#emil-ui-skills
+devin plugins install FSM-agency/skills#fsm-website-qa-skills
+devin plugins install FSM-agency/skills#fsm-web-playbook
+```
+
+Skills are then available as `/<plugin>:<skill>`, e.g. `/emil-ui-skills:animate`. Org admins can add `FSM-agency/skills` from Customize → Plugins → Add plugin → From repository.
+
 ## Why use it?
 
 Agents don’t have great taste
