@@ -1,0 +1,8 @@
+{
+  "name": "emil-ui-skills",
+  "version": "1.0.0",
+  "description": "UI and animation skills from emilkowalski/skills",
+  "author": { "name": "FSM Agency" },
+  "license": "MIT",
+  "keywords": ["ui", "design", "animation", "motion"]
+}
